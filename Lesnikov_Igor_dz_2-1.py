@@ -1,0 +1,9 @@
+# Выясняем типы результата выражений
+result_1 = 15 * 3
+print('Выражение 1: ' + str(type(result_1)))
+result_2 = 15 / 3
+print('Выражение 2: ' + str(type(result_2)))
+result_3 = 15 // 2
+print('Выражение 3: ' + str(type(result_3)))
+result_4 = 15 ** 2
+print('Выражение 4: ' + str(type(result_4)))
